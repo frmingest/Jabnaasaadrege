@@ -1,0 +1,50 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(**/.dbpass)",
+      "Read(**/mangosd.conf)",
+      "Read(**/realmd.conf)",
+      "Edit(**/.dbpass)",
+      "Write(**/.dbpass)",
+      "Edit(src/shared/Progression.h)",
+      "Write(src/shared/Progression.h)",
+      "Bash(git push --force:*)",
+      "Bash(git push -f:*)",
+      "Bash(git push upstream:*)",
+      "Bash(git add -A:*)",
+      "Bash(git add --all:*)",
+      "Bash(git add .:*)",
+      "Bash(git reset --hard:*)",
+      "Bash(git clean:*)"
+    ],
+    "ask": [
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(git merge:*)",
+      "Bash(git rebase:*)",
+      "Bash(powershell:*)",
+      "Edit(src/**)",
+      "Write(src/**)",
+      "Edit(sql/**)",
+      "Write(sql/**)"
+    ]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [{ "type": "command", "command": "node .claude/hooks/guard-bash.mjs" }]
+      },
+      {
+        "matcher": "Write|Edit|MultiEdit",
+        "hooks": [{ "type": "command", "command": "node .claude/hooks/guard-edit.mjs" }]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit|MultiEdit",
+        "hooks": [{ "type": "command", "command": "node .claude/hooks/post-sql-check.mjs" }]
+      }
+    ]
+  }
+}

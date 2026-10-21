@@ -1,0 +1,14 @@
+-- Purpose:      <what this adds/changes, one line>
+-- Server/Client: server only   (or: needs client patch because ...)
+-- Tables:       <creature_template, creature, ...>
+-- Id-range:     5000000-5000099
+-- Rollback:     0000_template.rollback.sql
+-- NOTE: get DESCRIBE <table>; before writing column lists. Do not guess vMaNGOS columns.
+
+START TRANSACTION;
+
+-- idempotent: clear only our own range, then insert
+-- DELETE FROM `creature_template` WHERE `entry` BETWEEN 5000000 AND 5000099;
+-- INSERT INTO `creature_template` (`entry`, `patch`, ... ) VALUES (5000000, 0, ...);
+
+COMMIT;

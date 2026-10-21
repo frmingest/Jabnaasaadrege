@@ -1,0 +1,5 @@
+{
+  "_comment": "PROPOSED defaults. Verify against the live DB (SELECT MAX(entry) per table) before the first custom SQL is applied, then remove this note and record the decision in custom/memory-bank/decisions.md.",
+  "lo": 5000000,
+  "hi": 5999999
+}

@@ -1,0 +1,7 @@
+# custom-only ignores (repo root .gitignore is upstream-owned; keep ours here)
+backups/
+*.dump
+*.mpq
+*.dbpass
+*.conf
+!*.conf.dist
