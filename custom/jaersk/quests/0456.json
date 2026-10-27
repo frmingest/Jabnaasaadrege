@@ -1,0 +1,10 @@
+{
+  "entry": 456,
+  "source_patch": 0,
+  "note": "Batch 1 Shadowglen. Utkast, Faiz retter.",
+  "Title": "Likevekt i naturen",
+  "Details": "Hei, $N.  Æg æ Conservator Ilthalaine.  Æg æ her i Shadowglen for å passa på at naturen held seg i likevekt.$b$bVårregnet va uvanleg tungt i år, å dæ gjorde at nokre av skogsdyra blomstra, mens andre hadde dæ vondt.$b$bDessverre vart dæ alt for mange nightsabers å thistle boars.  Shadowglen kan berre gi så mykje mat te dyra.  Gå ut, unge $c, å tynn ut bestanden, så naturen sin harmoni blir bevart.",
+  "Objectives": "Drep 7 Young Nightsabers å 4 Young Thistle Boars å gå tebake te Conservator Ilthalaine.",
+  "OfferRewardText": "Du gjorde jobben din bra, $N.$b$bDæ æ jabnå så dræge.",
+  "RequestItemsText": "Dæ æ framleis arbeid igjen, $N.  Kom tebake te mæg når du har tynna ut nightsabers å thistle boars."
+}

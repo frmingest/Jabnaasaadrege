@@ -1,0 +1,10 @@
+{
+  "entry": 4402,
+  "source_patch": 0,
+  "note": "Batch 2 Valley of Trials. Utkast, Faiz retter.",
+  "Title": "Galgar sin cactus apple-overraskelse",
+  "Details": "Dæ blir verkeleg varmt her ute i Valley of Trials.$B$B<Galgar tørke panna.>$B$BOm æg berre hadde nokre cactus apples, kunne æg laga den berømte cactus apple surprise! Ingenting kjøler dæg fortare enn ein bit av den deilege godsaken.$B$BÆg skal fortelje dæg ein ting, $N. Om du kjem med 10 cactus apples, skal æg laga nokre porsjonar cactus apple surprise te dæg å ta med på eventyra dine. Om du æ interessert, finn du cactus apples veksande nær kaktusplantane her.",
+  "Objectives": "Kom med 10 Cactus Apples te Galgar. Du hugsar han sa dei kunne finnast nær kaktusar.",
+  "OfferRewardText": "Fantastisk, $N! Som lova, her æ cactus apple surprise te dæg pluss litt ekstra.$b$bDæ æ jabnå så dræge.",
+  "RequestItemsText": "Har du samla cactus apples ferdig?"
+}

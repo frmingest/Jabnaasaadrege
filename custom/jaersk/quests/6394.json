@@ -1,0 +1,10 @@
+{
+  "entry": 6394,
+  "source_patch": 0,
+  "note": "Batch 2 Valley of Trials. Utkast, Faiz retter.",
+  "Title": "Thazz'ril sin hakke",
+  "Details": "$N, du æ ein påliteleg $r.  Kan æg rekne med dæg for ei oppgåve te?$B$BFor ei stund sidan undersøkte æg holet nordover etter mineral, å æg la att favoritthakka mi.  Då æg seinare kom tebake for å hente ho, fann æg holet fullt av grusomme dyr!  Vil du gå inn i holet, Burning Blade Coven, å hente hakka mi?$B$BÆg la ho i eit kammer med fossar.  Hakka mi har ein trylleformel på seg så du kan sjå ho i mørket, så du treng ikje bekymre dæg for å finne ho... berre kva som vaktar ho!",
+  "Objectives": "Kom med Thazz'ril's Pick te Foreman Thazz'ril.",
+  "OfferRewardText": "Flott, du fekk ho!  Tusen takk, $N.  Dette æ favoritthakka mi!  Om peons mine nokon gong blir ferdige med å hogge ned desse trea, kan vi kanskje finne ei fin hole å grave i!$b$bDæ æ jabnå så dræge.",
+  "RequestItemsText": "Har du vore inne i Burning Blade Coven, $N?  Fann du hakka mi?"
+}

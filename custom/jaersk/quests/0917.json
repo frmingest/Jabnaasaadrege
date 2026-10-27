@@ -1,0 +1,10 @@
+{
+  "entry": 917,
+  "source_patch": 0,
+  "note": "Batch 1 Shadowglen. Utkast, Faiz retter.",
+  "Title": "Webwood-egg",
+  "Details": "No som æg har edderkoppane sin gift, vil æg ha levande prøvar å studere.  Dessverre æ dæ for mykje å be om at du skal fange ein levande kjempeedderkopp, unge $c.  Å æg kunne ikje handtert ein sjølv heller!$B$BMen om du finn eit uklekt egg, blir dæ mykje lettare å levere prøvar, å då kan æg sørge for at dei uklekte edderkoppane blir haldne i fangenskap.$B$BDæ må vera eit reir djupt inne i Shadowthread Cave.  Vær så snill, let etter eit egg i reiret å kom med dæ te mæg.",
+  "Objectives": "Kom med eit Webwood Egg te Gilshalan i Aldrassil.",
+  "OfferRewardText": "Ah, veldig bra.  Æg skal sørge for at dette egget å giften blir frakta te Darnassus, å så reise dit sjølv når studiane mine her æ ferdige.  Æg venta å lære mykje frå desse prøvane, $N.  Du har vore ei stor hjelp.$b$bDæ æ jabnå så dræge.",
+  "RequestItemsText": "Har du vore inne i Shadowthread Cave, $N?  Fann du eit edderkoppegg?"
+}

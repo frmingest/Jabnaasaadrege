@@ -1,0 +1,10 @@
+{
+  "entry": 3082,
+  "source_patch": 0,
+  "note": "Batch 2 Valley of Trials. Utkast, Faiz retter.",
+  "Title": "Risset tavle",
+  "Details": "Ah, medan du va borte kom dæ ei tavle te dæg, $N.$B$BLes dæ når du har tid. Om æg ikje tar feil, kom dæ frå jegertreinaren Jen'shan. Ho vil snakke med dæg når du æ klar.",
+  "Objectives": "Snakk med Jen'shan i Valley of Trials.",
+  "OfferRewardText": "No lærer vi dei dæ, å dei lærer oss andre ting. Vi blir eitt folk... nesten. Vi har vore allierte lenge no. Så husk å hjelpe dei. Å Jen'shan skal hugse å hjelpe dæg.$B$BJen'shan lærer dæg jegaren sine vegar--lærer dæg godt. Gløym aldri at jegarar æ høgt respekterte av stammen. Du får ei stor rolle å spele i framtida... gløym aldri dæ.$B$BNår du kjenner behov, kom te Jen'shan. Ho lærer dæg så mykje ho kan når ho kjenner du æ klar.$b$bDæ æ jabnå så dræge.",
+  "RequestItemsText": "Jen'shan ser ein mektig jeger framføre seg, å åndane godkjenner.$B$BJegarens veg æ ein av våre eldste livsvegar. Horde vende seg te oss då dei berre kjempa for å overleve på Azeroth, å dei ba oss lære dei, vise dei hemmelegheiter om mange ting. Dei va alt sterke: sterke i sjamanvegar; sterke i krigarvegar. Men jegarvegen va ikje deira veg... då."
+}

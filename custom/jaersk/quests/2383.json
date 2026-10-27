@@ -1,0 +1,10 @@
+{
+  "entry": 2383,
+  "source_patch": 0,
+  "note": "Batch 2 Valley of Trials. Utkast, Faiz retter.",
+  "Title": "Enkelt pergament",
+  "Details": "Ah, medan du va borte kom dæ eit pergament te dæg, $N.$B$BLes dæ når du har tid. Om æg ikje tar feil, kom dæ frå krigartreinaren Frang. Han vil snakke med dæg når du æ klar. Du finn han utanfor Den, i skuggen.",
+  "Objectives": "Les Simple Parchment å snakk med Frang i Valley of Trials.",
+  "OfferRewardText": "Ah, dæ æ pergamentet mitt. Æg høyrde at du skulle kome te dalen, $N. Æg æ glad for å sjå at du klarte dæ--la oss håpe du overlever prøvene som ligg framføre. Som æg sa, etter kvart som du veks i makt, kom te mæg--æg skal gjera dæ æg kan for å trene dæg i måten ein $C gjer.$b$bLykke te, $N, å kom tebake te mæg når du kjenner dæg klar.$b$bDæ æ jabnå så dræge.",
+  "RequestItemsText": "Kva har du der? Eit pergament? Du æ vel ikje ein lærd, håpe æg..."
+}

@@ -1,0 +1,9 @@
+{
+  "entry": 5622,
+  "source_patch": 0,
+  "note": "Batch 1 Shadowglen. Utkast, Faiz retter.",
+  "Title": "Te ære for Elune",
+  "Details": "$N, du må reise te Dolanaar når du æ ferdig her i Shadowglen. Der finn du Laurna Morninglight. Ho skal lære dæg meir om Elune sine vegar, å dæ æ hos ho du får dei første klea som viser at du æ $gprest:prestinne; for Elune.$B$BPass på dæg, å må du bli beskytta på reisene dine.",
+  "Objectives": "Snakk med Laurna Morninglight i Teldrassil.",
+  "OfferRewardText": "Æg æ glad for å sjå at Shanda har sendt dæg te å finne mæg, $N. Å lære unge prestar Elune sine vegar gir mæg stor glede.$b$bDæ æ jabnå så dræge."
+}

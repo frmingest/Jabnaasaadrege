@@ -1,0 +1,10 @@
+{
+  "entry": 3065,
+  "source_patch": 0,
+  "note": "Batch 2 Valley of Trials. Utkast, Faiz retter.",
+  "Title": "Enkel tavle",
+  "Details": "Ah, medan du va borte kom dæ eit pergament te dæg, $N.$B$BLes dæ når du har tid. Om æg ikje tar feil, kom dæ frå krigartreinaren Frang. Han vil snakke med dæg når du æ klar. Du finn han utanfor Den, i skuggen.",
+  "Objectives": "Les Simple Tablet å snakk med Frang i Valley of Trials.",
+  "OfferRewardText": "Du kjem te å finne dette stedet passande når du held fram treninga i $C-måten. Om du har spørsmål, spør kven som helst her, å når du føler du æ klar, kom tebake te mæg for trening. Æg har meistra så mykje som nokon $C her i dalen å kan gi den kunnskapen vidare te dæg... mot betaling.$b$bDæ æ jabnå så dræge.",
+  "RequestItemsText": "Enda ein $R for å styrke rekkene. Godt nok for mæg.$B$BDu kjem sikkert te å ha vanskeleg for å heve eit godt våpen som ei øks, men eit spyd æ like bra som alt anna.$B$BVelkomen te Valley of Trials."
+}

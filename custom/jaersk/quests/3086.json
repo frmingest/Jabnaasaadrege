@@ -1,0 +1,10 @@
+{
+  "entry": 3086,
+  "source_patch": 0,
+  "note": "Batch 2 Valley of Trials. Utkast, Faiz retter.",
+  "Title": "Glyfeskrift-tavle",
+  "Details": "Ah, medan du va borte kom dæ ei tavle te dæg, $N.$B$BLes dæ når du har tid. Om æg ikje tar feil, kom dæ frå magitreinaren Mai'ah. Ho vil snakke med dæg når du æ klar.",
+  "Objectives": "Les Glyphic Tablet å snakk med Mai'ah nær inngangen te Den i Valley of Trials.",
+  "OfferRewardText": "Du æ blant dei mektigaste vesena på planeten, $N... dæ æ ikje tvil om dæ. Å alle veit dæ... veit dæ godt, også!$B$BMen du må vera på vakt! For dæ æ ikje orken, eller alven, eller dvergen du skal vera redd for... dæ æ tinga du ikje kan sjå. Magi æ mektig. Dæ får dæg te å gjera ting du kanskje ikje vil gjera. Dæ får dæg te å tru du æ meir mektig enn du verkeleg æ. Vær tolmodig. Vær smart.$B$BNår du trur du æ klar for trening, kom tebake te Mai'ah. Ho lærer dæg dæ du æ klar for å lære, ikje noko problem.$b$bDæ æ jabnå så dræge.",
+  "RequestItemsText": "Du ser ut te å glede Mai'ah alt, $N. Dæ æ bra. Du gir Mai'ah respekt, å Mai'ah gir kanskje respekt tebake. Men nok om dæ, du æ her for å lære om magi, ikje høyre Mai'ah snakke.$B$BDæ æ berre ein ting Mai'ah ikje kan lære dæg om magi, $N, å dæ æ korleis du stoppar fordervinga."
+}

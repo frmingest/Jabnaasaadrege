@@ -1,0 +1,10 @@
+{
+  "entry": 3522,
+  "source_patch": 0,
+  "note": "Batch 1 Shadowglen. Utkast, Faiz retter.",
+  "Title": "Iverron sitt motgift",
+  "Details": "Motgifta æ klar, $N. Sørg for at Iverron drikk dæ.$B$BDæ æ noko du må vite -- motgifta -- ho held seg berre brukbar i 5 minutt. Du må få dæ te han i tide.$B$BLykke te, $N.",
+  "Objectives": "Kom med Iverron's Antidote te Iverron før tida går ut. Iverron finn du ved holet nordover.",
+  "OfferRewardText": "Kva æ dette, $N?$B$BÅh, æg visste at Dirania kunne hjelpe mæg!$B$B<Iverron drikk motgifta.>$B$BÆg kjem alltid opp i trøbbel å Dirania, ja, ho klarer alltid å hjelpe mæg ut av dæ.$B$BÆg kjenner mæg mykje betre, men æg trur æg skal bli sitjande her ei stund, te æg kjenner mæg heilt bra. Å, dessutan, æg håpa du ville rydde ei veg for mæg gjennom dei grusomme Webwood-edderkoppane...$b$bDæ æ jabnå så dræge.",
+  "RequestItemsText": "Å... $N, æg æ så glad du har kome tebake."
+}

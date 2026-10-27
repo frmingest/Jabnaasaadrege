@@ -1,0 +1,10 @@
+{
+  "entry": 3084,
+  "source_patch": 0,
+  "note": "Batch 2 Valley of Trials. Utkast, Faiz retter.",
+  "Title": "Runeinnskriven tavle",
+  "Details": "Ah, medan du va borte kom dæ ei tavle te dæg, $N.$B$BLes dæ når du har tid. Om æg ikje tar feil, kom dæ frå sjamantreinaren Shikrik. Ho vil snakke med dæg når du æ klar.",
+  "Objectives": "Snakk med Shikrik i Valley of Trials.",
+  "OfferRewardText": "Som du sikkert veit, gir elementa oss makta vår. Eld, jord, vatn å luft--dæ æ verktøya våre.$b$bStyrken vår kjem frå åndane te forfedrane våre. Vi æ leiarane for folket vårt. Som Thrall æ for Horde, skal vi vera for landsbyane å byane vi besøker. Dei skal sjå te oss etter visdom å beskyttelse. For å vera betre førebudd må du trene ofte. Når du kjenner at du har fått meir makt, kom te mæg å æg skal lære dæg dæ æg kan.$b$bDæ æ jabnå så dræge.",
+  "RequestItemsText": "Ah, velkomen, $N. Æg æ glad du har kome. Dagane mine har blitt lange å til å med travle med så mange elevar å lære opp, men å få ein av dæg gir mæg ei stor kjensle av å ha fått noko til--æg hugsar tidene då æg vart lært opp av ein av dykkar sjamanar."
+}

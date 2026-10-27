@@ -1,0 +1,10 @@
+{
+  "entry": 928,
+  "source_patch": 0,
+  "note": "Batch 1 Shadowglen. Utkast, Faiz retter.",
+  "Title": "Jordas krone",
+  "Details": "Dæ æ meir æg kunne ha fortalt dæg om månebrønnane å om Teldrassil, men æg må sende dæg vidare. Corithras Moonrage vente på dæg. Æg har helt vatnet du kom med inn i denne beholdaren for å ta dæ te han.$b$bFinn Corithras. Du finn han ved månebrønnen i Dolanaar. Fylg vegen sørover frå Aldrassil ut av Shadowglen, å hald fram langs brosteinen når vegen svingar vest.$b$bPass på å hald dæg på vegen, $n. Dæ æ farlege dyr i skogane for tida.",
+  "Objectives": "Kom med Partially Filled Vessel te Corithras Moonrage i Dolanaar.",
+  "OfferRewardText": "Ah, æg ser.  Tenaron sende dæg.  Då ser dæ ut som vi har mykje å snakke om, mykje å gjera, å lite tid å gjera dæ i.$b$bÆg trur vi bør kome i gang.$b$bDæ æ jabnå så dræge.",
+  "RequestItemsText": "Hei, $c. Kva æ grunnen te at æg får æra av dette møtet?"
+}

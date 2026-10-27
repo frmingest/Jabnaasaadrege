@@ -1,0 +1,10 @@
+{
+  "entry": 2159,
+  "source_patch": 0,
+  "note": "Batch 1 Shadowglen. Utkast, Faiz retter.",
+  "Title": "Levering te Dolanaar",
+  "Details": "Hei, unge $c.  Kan du hjelpe mæg?  Æg har ein pakke med urter som æg må levere te byen Dolanaar.  Men æg har framleis forretningar med druidane i Shadowglen å kan ikje reise enno.$B$BKan du levere denne pakka for mæg?  Dæ skal te Innkeeper Keldamyr, på vertshuset i Dolanaar.  Dæ ligg langs vegen, sørover.",
+  "Objectives": "Kom med Dolanaar Delivery te Innkeeper Keldamyr.",
+  "OfferRewardText": "Ah ja, urteleveringa frå Shadowglen.  Dæ æ synd at Porthannius ikje kunne kome med dæ sjølv, for vi har mykje å snakke om, han å æg.  Men æg æ glad for å få urtene likevel, å æg æ glad du kom.$B$BNo som du æ her, vær så snill å kvil dæg.  Heltar må halde styrken å motet oppe, å finne kvile å trøyst når dei kan.  For å forsømme ro i kropp å sinn æ ei sikker veg te å mislykkast.$B$BSå... kvil.$b$bDæ æ jabnå så dræge.",
+  "RequestItemsText": "Korleis kan æg tene dæg, unge ein?  Æ du her for å kvile på vertshuset?  Treng du ein hearthstone?"
+}

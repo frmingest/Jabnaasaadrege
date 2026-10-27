@@ -1,0 +1,10 @@
+{
+  "entry": 459,
+  "source_patch": 0,
+  "note": "Batch 1 Shadowglen. Utkast, Faiz retter.",
+  "Title": "Skogsvokteren",
+  "Details": "Noko ondt skjer i skogane i Teldrassil.  Sjå bortover åsane der dei fredelege furbolgane budde før.  Dei har forlatt heimane sine å samle seg under namnet Gnarlpine-stammen.$b$bBerre den vonde Fel Moss kan få til ei slik forvandling.  Grells å grellkin har tatt over området å true dei som bur i Shadowglen.  $b$bGå mot desse grells å grellkin, $N, å sjå om dei verkeleg æ fanga av trolldomen frå den vonde Fel Moss.",
+  "Objectives": "Samle 8 Fel Moss å gi dæ te Tarindrella.",
+  "OfferRewardText": "Tenesta di for skapningane i Shadowglen æ verdt ei løn, $N.$b$bDu stadfesta frykta mi, dessverre.  Om grells har blitt smitta av Fel Moss, kan ein berre tenkje seg kva som har skjedd med Gnarlpine-stammen av furbolgs som budde her.$b$bSkulle du kome te Dolanaar, dyktige $C, så finn den kunnskapsrike druiden Athridas Bearmantle.  Han deler bekymringa vår for skogen.$b$bDæ æ jabnå så dræge.",
+  "RequestItemsText": "Gje mæg svar på mistanken min, $N.  Kom med 8 Fel Moss."
+}

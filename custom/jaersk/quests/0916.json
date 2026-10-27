@@ -1,0 +1,10 @@
+{
+  "entry": 916,
+  "source_patch": 6,
+  "note": "Batch 1 Shadowglen. Utkast, Faiz retter.",
+  "Title": "Webwood-gift",
+  "Details": "Æg kom te Shadowglen for å studere webwood-edderkoppane som bur i Shadowthread Cave.  Dei æ slekt med ein mykje mindre type edderkopp; æg trur verdstreet har hatt ei sterk verknad på dei, å æg ønske prøvar å studere for å stadfeste dæ.$B$BFørst vil æg ha litt av giften deira.  Samle Webwood Venom Sacs frå edderkoppane i å rundt Shadowthread Cave, nord for her.  Då kan æg samanlikne dei med giften te den mindre slektningen deira.",
+  "Objectives": "Kom med 10 Webwood Venom Sacs te Gilshalan Windwalker ved Aldrassil.",
+  "OfferRewardText": "Takk, $N.  Når æg kjem tebake te Darnassus, skal æg samanlikne giften i desse sekkane med gift frå andre edderkoppar.  Æg trur dæ har eigenskapar som heng saman med veksten av det nye verdstreet vårt.$b$bDæ æ jabnå så dræge.",
+  "RequestItemsText": "Har du samla giftsekkane, $N?"
+}

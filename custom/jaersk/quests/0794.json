@@ -1,0 +1,10 @@
+{
+  "entry": 794,
+  "source_patch": 0,
+  "note": "Batch 2 Valley of Trials. Utkast, Faiz retter.",
+  "Title": "Burning Blade-medaljongen",
+  "Details": "Gjennom spådomane mine ser æg at ein kraftgjenstand gøymer seg djupt i Burning Blade Coven, vakta av dyr å svart magi.$B$BHan heiter Burning Blade Medallion, å di neste oppgåve æ å finne han å ta han ut av heksekrinsen.$B$BMen vær på vakt, for medaljongen kan vera besatt av ein agent for Burning Blade, å då vil makta te agenten vera større enn familiars du alt har møtt.$B$BGå, $N.  Du finn heksekrinsen i ei hole, nord å vest.",
+  "Objectives": "Kom med Burning Blade Medallion te Zureetha Fargaze, utanfor The Den.",
+  "OfferRewardText": "Du fann han!  Godt gjort!$B$BInnsatsen din i Burning Blade Coven æ nøkkelen te å rydde ut denne sekten i Valley of Trials.  Men æg fryktar dei har større mål i landet vårt.$B$BVi har ikje sett slutten på dei.$b$bDæ æ jabnå så dræge.",
+  "RequestItemsText": "Æ oppgåva di ferdig, $N?  Har du Burning Blade Medallion?"
+}

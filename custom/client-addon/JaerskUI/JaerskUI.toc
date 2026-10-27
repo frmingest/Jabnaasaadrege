@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: Jaersk UI
+## Notes: Jaersk tekst i quest-vinduene (overskrifter og knapper). Ingen Blizzard-filer.
+Strings.lua
+JaerskUI.lua

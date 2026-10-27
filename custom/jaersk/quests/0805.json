@@ -1,0 +1,9 @@
+{
+  "entry": 805,
+  "source_patch": 0,
+  "note": "Batch 2 Valley of Trials. Utkast, Faiz retter.",
+  "Title": "Meld frå i Sen'jin Village",
+  "Details": "Prøvene dine mot Burning Blade æ over... her i dalen.  Men æg vil at du skal melde frå om dæ du fann.$B$BGå te trollbyen Sen'jin å finn Master Gadrin.  Sen'jin Village ligg aust ut av dalen, så te høgre ved gaffelen.$B$BFortel Gadrin om Burning Blade, å at dei har nådd Valley of Trials.  Finn ut frå han om dei alt har nådd Sen'jin.$B$BGå, $N, å vær snar.  Æg fryktar at ondskapen i Burning Blade Coven berre æ ein varslar om ei større trugsel...",
+  "Objectives": "Snakk med Master Gadrin i Sen'jin Village.",
+  "OfferRewardText": "Hm... meldinga di kjem på eit dårleg tidspunkt.  Burning Blade æ ikje sett her i Sen'jin, men ondskapen deira har slått rot langs kysten, på Echo Isles.$B$BOrkane æ vener av Darkspear Trolls.  Æreleg vener.  Vi vil hjelpe orkane, men... vi treng også hjelp.$b$bDæ æ jabnå så dræge."
+}

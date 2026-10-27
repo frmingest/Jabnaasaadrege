@@ -1,0 +1,10 @@
+{
+  "entry": 3521,
+  "source_patch": 0,
+  "note": "Batch 1 Shadowglen. Utkast, Faiz retter.",
+  "Title": "Iverron sitt motgift",
+  "Details": "Vi kan kanskje hjelpe Iverron, for æg kjenner te eit motgift som skal hjelpe mot giften. Æg treng nokre ingrediensar før æg kan lage dæ, men.$B$BÆg treng Hyacinth mushrooms. Du finn dei veksande under tre, eller du kan samle dei frå grells sør for her; dei ser ut te å ha fått smak for dei. Æg treng også Moonpetal lilies, som berre veks rundt vassdammar.$B$BDen siste ingrediensen kan bli den vanskelegaste. Frå dei same edderkoppane som forgifta Iverron, samle Webwood ichor.",
+  "Objectives": "Samle 7 Hyacinth Mushrooms, 4 Moonpetal Lilies, å 1 Webwood Ichor te Dirania Silvershine i Shadowglen.",
+  "OfferRewardText": "Takk Elune at du har samla desse ingrediensane så fort!$B$BOm eit augeblikk har æg motgifta klart.$b$bDæ æ jabnå så dræge.",
+  "RequestItemsText": "Samle ingrediensane, vær så snill, $N. Iverron treng hjelpa vår."
+}

@@ -1,0 +1,10 @@
+{
+  "entry": 3087,
+  "source_patch": 0,
+  "note": "Batch 2 Valley of Trials. Utkast, Faiz retter.",
+  "Title": "Risset pergament",
+  "Details": "Ah, medan du va borte kom dæ eit pergament te dæg, $N.$B$BLes dæ når du har tid. Om æg ikje tar feil, kom dæ frå jegertreinaren Jen'shan. Ho vil snakke med dæg når du æ klar.",
+  "Objectives": "Les Etched Parchment å snakk med Jen'shan i Valley of Trials.",
+  "OfferRewardText": "Når vi æ ferdige med å snakke, bør du snakke med resten av innbyggjarane i dalen. Dei ber dæg gjera ting for dei... ting som skal teste ferdigheitene dine å lære dæg om nokre av farane i dette landet.$B$BEtter kvart som du veks i røynsle å visdom, kjem du te å trenge Jen'shan for å vise dæg betre teknikkar å ferdigheiter. Kom ofte tebake te Jen'shan. Æg skal la dæg få vite dæ æg kan lære dæg.$b$bDæ æ jabnå så dræge.",
+  "RequestItemsText": "Ah, så du kom endeleg. Bra. Jen'shan har venta på dæg.$B$BMange trur dæ æ ein lett veg, men Jen'shan seier dæg at dæ ikje stemmer. Å meistre dyra i Durotar å lenger bort tar like mykje ferdigheit som å meistre dei arkane kunstane eller å snakke med forfedrane våre.$B$BÅ skyte med bue eller rifle æ kanskje ikje like farleg for dæg som å kaste ein trylleformel, men dæ æ sikkert like farleg for fienden din."
+}

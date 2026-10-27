@@ -1,0 +1,10 @@
+{
+  "entry": 3090,
+  "source_patch": 0,
+  "note": "Batch 2 Valley of Trials. Utkast, Faiz retter.",
+  "Title": "Forderva pergament",
+  "Details": "Ah, medan du va borte kom dæ eit pergament te dæg, $N.$B$BÆg prøver vanlegvis å unngå warlocks om æg kan, men æg trur du bør lese dæ når du har tid. Om æg ikje tar feil, kom dæ frå den nyutnemnde treinaren din Nartok. Han vil snakke med dæg når du æ klar.",
+  "Objectives": "Les Tainted Parchment å snakk med Nartok inne i Den i Valley of Trials.",
+  "OfferRewardText": "Å no har du også blitt med i rekkene våre. Misforstå ikje, $N. Berre fordi du har tilgang te makt som mange skal misunne, betyr ikje dæ at du lett blir akseptert. Thrall slepp vår type inn i Orgrimmar fordi vi framleis æ hans slekt--han kan ikje vende ryggen te oss, eller vi ville blitt like ynkelege som menneska som slavebandt han. Poenget mitt æ: vær forsiktig. Du kan bli mektig, men om du æ dum, æ du like god som død.$b$bOm du treng trening i trylleformlar, kom tebake te mæg.$b$bDæ æ jabnå så dræge.",
+  "RequestItemsText": "Endeleg har du kome... å diskret også. Bra.$b$bVerda vår æ full av tosker, $N. Sjølv den mektige Thrall har større feil enn dei fleste kan sjå. Han vender ryggen te makta som trengst for å gjera dette landet heilt vårt! Vi æ ikje dei same folka som vart manipulert å brukt av skapningar frå Nether. Vi æ vårt eige folk. Vi æ stolte... å vi æ sterke."
+}
